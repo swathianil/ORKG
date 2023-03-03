@@ -1,0 +1,187 @@
+Steps to import the csv data in ORKG
+
+rename columns: paper:title and paper:doi, drop columns pmid, index etc
+
+
+-----------------
+create predicates
+-----------------
+
+type of rTMS https://orkg.org/property/P78000
+
+intraburst frequency https://orkg.org/property/P78001
+
+stimulation intensity selection approach https://orkg.org/property/P78002
+
+threshold-estimation strategies https://orkg.org/property/P78003
+
+threshold measurement https://orkg.org/property/P78005 
+
+amplitude of the motor evoked potential in microvolt https://orkg.org/property/P78006
+
+threshold ratio https://orkg.org/property/P78007
+
+percentage or the amplitude of the motor threshold contraction https://orkg.org/property/P78008
+
+maximum stimulator output https://orkg.org/property/P78009
+
+stimulator company https://orkg.org/property/P78010
+
+stimulator model https://orkg.org/property/P78011
+
+coil shape https://orkg.org/property/P78012
+
+coil size https://orkg.org/property/P78013
+
+coil model https://orkg.org/property/P78014
+
+note https://orkg.org/property/P78015 # same as comment
+
+
+the three properties will be modeled in a template
+si_pct - percent of stimulation intensity
+si_pct_min - percent of stimulation intensity (min value)
+si_pct_max - percent of stimulation intensity (max value)
+
+
+-----------------------------------------
+create resources and record resource IDs
+-----------------------------------------
+
+1)
+for "typ" predicate
+
+rTMS: conventional rTMS https://orkg.org/resource/R254150
+cTBS: continuous theta burst stimulation https://orkg.org/resource/R254154
+iTBS: intermittent theta burst stimulation https://orkg.org/resource/R254175
+QPS: quadripulse stimulation https://orkg.org/resource/R254176
+
+2)
+for "si_app" predicate
+
+AMT: active motor threshold https://orkg.org/resource/R254177
+RMT: resting motor threshold https://orkg.org/resource/R254178
+MT: unspecified motor threshold https://orkg.org/resource/R254179
+FL: functional lesion https://orkg.org/resource/R254180
+PT: phosphene threshold https://orkg.org/resource/R254181
+FXD: fixed intensity https://orkg.org/resource/R254182
+EF: electric field https://orkg.org/resource/R254183
+
+3)
+for "th_strat" predicate
+
+ML: method of limit https://orkg.org/resource/R254301
+5STEP: 5 step procedure https://orkg.org/resource/R254302
+TH: threshold hunting https://orkg.org/resource/R254303 (no paper data item had this value)
+MLTH: maximum likelihood based threshold hunting https://orkg.org/resource/R254304
+PEST: parameter estimation by sequential testing https://orkg.org/resource/R254305
+MTAT: TMS Motor Threshold Assessment Tool https://orkg.org/resource/R254306
+
+4)
+for "th_meas" predicate
+
+E: electrode https://orkg.org/resource/R254307
+V: visual https://orkg.org/resource/R254308
+
+
+5) 
+for "stim_co - stimulator company" predicate
+
+Cad https://orkg.org/resource/R254309
+MedDan https://orkg.org/resource/R254310
+MagSti https://orkg.org/resource/R254311
+NeoNet https://orkg.org/resource/R254312
+NeuNet https://orkg.org/resource/R254313
+MagVen https://orkg.org/resource/R254314
+NexSti https://orkg.org/resource/R254315
+MagMor https://orkg.org/resource/R254316
+Yir https://orkg.org/resource/R254317
+BraSwa https://orkg.org/resource/R254318
+DeyDia https://orkg.org/resource/R254319
+YunTec https://orkg.org/resource/R254320
+NeuSof https://orkg.org/resource/R254321
+
+
+6)
+for stim_mo - stimulator model
+
+HS https://orkg.org/resource/R254322
+MP https://orkg.org/resource/R254323
+MES10 https://orkg.org/resource/R254324
+R https://orkg.org/resource/R254325
+SR https://orkg.org/resource/R254326
+SR2 https://orkg.org/resource/R254327
+NP https://orkg.org/resource/R254328
+16E05 https://orkg.org/resource/R254329
+200 https://orkg.org/resource/R254330
+200_2 https://orkg.org/resource/R254331
+MLR25 https://orkg.org/resource/R254332
+200_BI https://orkg.org/resource/R254333
+QP500 https://orkg.org/resource/R254334
+HF https://orkg.org/resource/R254335
+MP30 https://orkg.org/resource/R254336
+MPX100 https://orkg.org/resource/R254337
+2100CRS https://orkg.org/resource/R254338
+MP100 https://orkg.org/resource/R254339
+R2 https://orkg.org/resource/R254340
+MPR30 https://orkg.org/resource/R254341
+NBS https://orkg.org/resource/R254342
+PM100 https://orkg.org/resource/R254343
+CCYI https://orkg.org/resource/R254344
+CCYIA https://orkg.org/resource/R254345
+DMXT https://orkg.org/resource/R254346
+NS https://orkg.org/resource/R254347
+Sys4.3 https://orkg.org/resource/R254348
+R2P1 https://orkg.org/resource/R254349
+N-MS/D https://orkg.org/resource/R254350
+MPC https://orkg.org/resource/R254351
+MS/D https://orkg.org/resource/R254352
+
+7)
+for predicate "coil_shp - coil shape"
+
+F8 https://orkg.org/resource/R254353
+R https://orkg.org/resource/R254354
+F8-D https://orkg.org/resource/R254355
+D https://orkg.org/resource/R254356
+
+
+8)
+for predicate "coil_mo - coil model"
+
+MC125 https://orkg.org/resource/R254357
+MC-125 https://orkg.org/resource/R254358
+MC-B70 https://orkg.org/resource/R254359
+MCF-B70 https://orkg.org/resource/R254360
+MCF-B-65 https://orkg.org/resource/R254361
+MCF-B65 https://orkg.org/resource/R254362
+WC https://orkg.org/resource/R254363
+AC https://orkg.org/resource/R254364
+DC https://orkg.org/resource/R254365
+PN9925 https://orkg.org/resource/R254366
+992500 https://orkg.org/resource/R254367
+C-B60 https://orkg.org/resource/R254368
+FC https://orkg.org/resource/R254369
+FC-B70 https://orkg.org/resource/R254370
+HP https://orkg.org/resource/R254371
+Cool B65 https://orkg.org/resource/R254372
+cool-B65 https://orkg.org/resource/R254373
+Cool-DB80 https://orkg.org/resource/R254374
+Cool B56 https://orkg.org/resource/R254375
+H-ADD https://orkg.org/resource/R254376
+H https://orkg.org/resource/R254377
+H1 https://orkg.org/resource/R254378
+AF https://orkg.org/resource/R254379
+DB-80 https://orkg.org/resource/R254380
+B65 https://orkg.org/resource/R254381
+MMC-140 https://orkg.org/resource/R254382
+70BF-Cool https://orkg.org/resource/R254383
+
+
+
+I FORGOT to add the research field data file. For the final import, this will need to be addressed.
+
+
+
+
+Note for both resources and predicates the full-form of the names were used

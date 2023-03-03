@@ -1,0 +1,51 @@
+paper:title,paper:doi,paper:research_field,orkg:P78000,orkg:P78001,orkg:P78002,orkg:P78003,orkg:P78005,orkg:P78006,orkg:P78007,orkg:P78008,orkg:P78009,orkg:P78010,orkg:P78011,orkg:P78012,orkg:P78013,orkg:P78014,orkg:P78015
+Turatto_2004_Neuroreport_15538193.pdf,10.1097/00001756-200411150-00024,R61,orkg:R254150,10,orkg:R254178,orkg:R254301,orkg:R254308,,3_6,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,site: right DLPFC
+Turatto_2004_Neuroreport_15538193.pdf,10.1097/00001756-200411150-00024,R61,orkg:R254150,10,orkg:R254178,orkg:R254301,orkg:R254308,,3_6,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,site: left DLPFC
+Young_2004_Neurocase_15788259.pdf,10.1080/13554790490495140,R61,orkg:R254150,0.9,orkg:R254177,orkg:R254301,orkg:R254307,100.0,1_10,0.05,,orkg:R254311,orkg:R254333,orkg:R254353,,,stim_mo: 3 stimulators linked together; condition: 3; MSO range: 33-50%
+Bajbouj_2005_JECT_16301886.pdf,10.1097/01.yct.0000180039.12176.9c,R61,orkg:R254150,20,orkg:R254178,,,,,,25.5,orkg:R254310,orkg:R254323,orkg:R254353,70,,medication:150 mg of venlafaxine & 150 mg of sertraline ; MSO range: 25.5-34%
+Fitzgerald_2005_JClinPsychopharmacol_16012279.pdf,10.1097/01.jcp.0000168487.22140.7f,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,70,,
+Glover_2005_JCognNeurosci_15701244.pdf,10.1162/0898929052880066,R61,orkg:R254150,10,orkg:R254177,,orkg:R254308,,,0.1,,orkg:R254311,orkg:R254325,orkg:R254353,,,experiment: 1; timing; MSO range: 45-65%; multiple task paradigms
+Glover_2005_JCognNeurosci_15701244.pdf,10.1162/0898929052880066,R61,orkg:R254150,10,orkg:R254177,,orkg:R254308,,,0.1,,orkg:R254311,orkg:R254325,orkg:R254353,,,experiment: 2; timing; MSO range: 45-65%; multiple task paradigms
+Inghilleri_2005_ExpBrainRes_15940502.pdf,10.1007/s00221-005-2225-x,R61,orkg:R254150,5,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,,,
+Jandl_2005_NeuralTransm_15517429.pdf,10.1007/s00702-004-0229-5,R61,orkg:R254150,10,orkg:R254178,orkg:R254301,orkg:R254307,,5_10,,,orkg:R254310,orkg:R254323,orkg:R254354,60,orkg:R254358,
+Koch_2005_Neuroimage_15588594.pdf,10.1016/j.neuroimage.2004.09.042,R61,orkg:R254150,25,orkg:R254179,orkg:R254301,orkg:R254308,,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,site: DLPFC
+Koch_2005_Neuroimage_15588594.pdf,10.1016/j.neuroimage.2004.09.042,R61,orkg:R254150,25,orkg:R254179,orkg:R254301,orkg:R254308,,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,site: PPC
+Koch_2005_Neuroimage_15588594.pdf,10.1016/j.neuroimage.2004.09.042,R61,orkg:R254150,25,orkg:R254179,orkg:R254301,orkg:R254308,,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,site: SFG
+Maihæ·ner_2005_Neuroreport_16237338.pdf,10.1097/01.wnr.0000183903.77654.64,R61,orkg:R254150,10,orkg:R254179,,,,,,,orkg:R254310,orkg:R254325,orkg:R254353,70,,
+Mochizuki_2005_ExpBrainRes_16047176.pdf,10.1007/s00221-005-0047-5,R61,orkg:R254154,,orkg:R254177,orkg:R254301,orkg:R254307,200.0,5_10,0.05,,MagSti ,orkg:R254330,orkg:R254353,50,,
+Mochizuki_2005_ExpBrainRes_16047176.pdf,10.1007/s00221-005-0047-5,R61,orkg:R254154,,orkg:R254177,orkg:R254301,orkg:R254307,200.0,5_10,0.05,,MagSti ,orkg:R254326,orkg:R254353,50,,
+Orth_2005_ClinNeurophysiol_15792884.pdf,10.1016/j.clinph.2004.10.003,R61,orkg:R254150,1,orkg:R254177,orkg:R254301,orkg:R254307,200.0,0.5,,34.4,orkg:R254311,orkg:R254325,,,,site: left premotor; protocol: sequential bilateral; MSO range: 31-54% AMT
+Orth_2005_ClinNeurophysiol_15792884.pdf,10.1016/j.clinph.2004.10.003,R61,orkg:R254150,1,orkg:R254177,orkg:R254301,orkg:R254307,200.0,0.5,,34.4,orkg:R254311,orkg:R254325,,,,site: right premotor; protocol: sequential bilateral; MSO range: 31-54% AMT
+Orth_2005_ClinNeurophysiol_15792884.pdf,10.1016/j.clinph.2004.10.003,R61,orkg:R254150,1,orkg:R254177,orkg:R254301,orkg:R254307,200.0,0.5,,34.4,orkg:R254311,orkg:R254325,,,,site: left premotor; protocol: sequential bilateral followed by sham; MSO range: 31-54% AMT
+Poulet_2005_BiolPsychiatry_15652879.pdf,10.1016/j.biopsych.2004.10.007,R61,orkg:R254150,1,orkg:R254179,orkg:R254301,,,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,70,,
+Su_2005_JClinPsychiatry_16013911.pdf,10.4088/jcp.v66n0718,R61,orkg:R254150,5,orkg:R254178,CITE,,,,,,orkg:R254311,orkg:R254326,orkg:R254353,70,orkg:R254364,
+Su_2005_JClinPsychiatry_16013911.pdf,10.4088/jcp.v66n0718,R61,orkg:R254150,20,orkg:R254178,CITE,,,,,,orkg:R254311,orkg:R254326,orkg:R254353,70,orkg:R254364,
+Tamura_2005_EurJNeurosci_15932613.pdf,10.1111/j.1460-9568.2005.04096.x,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,,,
+Thut_2005_CerebCortex_15342434.pdf,10.1093/cercor/bhh164,R61,orkg:R254150,1,orkg:R254182,,,,,,80.0,orkg:R254311,orkg:R254326,orkg:R254353,70,,80% MSO = 129% of RMT (range 107-145%)
+Thut_2005_JNeurosciMethods_15661302.pdf,10.1016/j.jneumeth.2004.06.016,R61,orkg:R254150,1,orkg:R254181,,,,,,74.0,orkg:R254311,orkg:R254326,orkg:R254353,70, ,task; checkboard stimulation
+Thut_2005_JNeurosciMethods_15661302.pdf,10.1016/j.jneumeth.2004.06.016,R61,orkg:R254150,1,orkg:R254181,,,,,,74.0,orkg:R254311,orkg:R254326,orkg:R254355,110,,task: auditory
+Winhuisen_2005_Stroke_16020770.pdf,10.1161/01.STR.0000174487.81126.ef,R61,orkg:R254150,4,orkg:R254182,,,,,,20.0,orkg:R254311,orkg:R254325,,,,site: left IFG; coil_mo: reported as Magstim 200 Rapid
+Winhuisen_2005_Stroke_16020770.pdf,10.1161/01.STR.0000174487.81126.ef,R61,orkg:R254150,4,orkg:R254182,,,,,,20.0,orkg:R254311,orkg:R254325,orkg:R254353,76,,site: right IFG; coil_mo: reported as Magstim 200 Rapid
+Andr-Obadia_2006_ClinNeurophysiol_16753335.pdf,10.1016/j.clinph.2006.03.025,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,70,,
+Andr-Obadia_2006_ClinNeurophysiol_16753335.pdf,10.1016/j.clinph.2006.03.025,R61,orkg:R254150,20,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,70,,
+Basso_2006_ExpBrainRes_16710684.pdf,10.1007/s00221-006-0457-z,R61,orkg:R254150,1,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,43.8,orkg:R254310,orkg:R254323,orkg:R254354,100,,
+Brunelin_2006_SchizophrRes_16314076.pdf,10.1016/j.schres.2005.10.009,R61,orkg:R254150,1,orkg:R254179,orkg:R254301,orkg:R254308,,5_10,,,orkg:R254310,orkg:R254323,orkg:R254353,70,,
+Esser_2006_BrainResBull_16464689.pdf,10.1016/j.brainresbull.2005.11.003,R61,orkg:R254150,5,orkg:R254178,MLTH_AW,,,,,,orkg:R254311,RR,orkg:R254353,100,,coil_siz: outer diameter
+Fitzgerald_2006_IntJNeuropsychopharmacol_16959055.pdf,10.1017/S1461145706007176,R61,orkg:R254150,1,orkg:R254178,CITE,orkg:R254308,,,,,orkg:R254310,orkg:R254336,orkg:R254353,70,,
+Fitzgerald_2006_IntJNeuropsychopharmacol_16959055.pdf,10.1017/S1461145706007176,R61,orkg:R254150,2,orkg:R254178,CITE,orkg:R254308,,,,,orkg:R254310,orkg:R254336,orkg:R254353,70,,
+Fitzgerald_2006_IntJNeuropsychopharmacol_16959055.pdf,10.1017/S1461145706007176,R61,orkg:R254150,5,orkg:R254178,CITE,orkg:R254308,,,,,orkg:R254310,orkg:R254336,orkg:R254353,70,,
+Fitzgerald_2006_IntJNeuropsychopharmacol_16959055.pdf,10.1017/S1461145706007176,R61,orkg:R254150,10,orkg:R254178,CITE,orkg:R254308,,,,,orkg:R254310,orkg:R254336,orkg:R254353,70,,
+Fregni_2006_Neurology_16769932.pdf,10.1212/01.wnl.0000218194.12054.60,R61,orkg:R254150,15,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254310,,orkg:R254353,70,,coil_siz: outside diameter
+Garcia-Toro_2006_PsychiatryRes_16356697.pdf,10.1016/j.pscychresns.2004.08.005,R61,orkg:R254150,20,orkg:R254179,,,,,,,orkg:R254310,orkg:R254323,orkg:R254353,85,,group: rTMS; protcol: alternating; coil_siz: wing diameter
+Garcia-Toro_2006_PsychiatryRes_16356697.pdf,10.1016/j.pscychresns.2004.08.005,R61,orkg:R254150,1,orkg:R254179,,,,,,,orkg:R254310,orkg:R254323,orkg:R254353,85,,group: rTMS; protocol: alternating; coil_siz: wing diameter
+Garcia-Toro_2006_PsychiatryRes_16356697.pdf,10.1016/j.pscychresns.2004.08.005,R61,orkg:R254150,20,orkg:R254179,,,,,,,orkg:R254310,orkg:R254323,orkg:R254353,85,,group: rTMS + SPECT; protcol: alternating; coil_siz: wing diameter
+Garcia-Toro_2006_PsychiatryRes_16356697.pdf,10.1016/j.pscychresns.2004.08.005,R61,orkg:R254150,1,orkg:R254179,,,,,,,orkg:R254310,orkg:R254323,orkg:R254353,85,,group: rTMS + SPECT; protocol: alternating; coil_siz: wing diameter
+Khedr_2006_MovDisord_17219616.pdf,10.1002/mds.21089,R61,orkg:R254150,25,orkg:R254178,orkg:R254301,orkg:R254307,50.0,0.5,,,orkg:R254310,orkg:R254332,orkg:R254353,90,,"coil_siz: outer diameter, site: optimal position for lower limbs (EDB) for the first 1,000 pulses and then the optimal position for the hand"
+Khedr_2006_MovDisord_17219616.pdf,10.1002/mds.21089,R61,orkg:R254150,25,orkg:R254178,orkg:R254301,orkg:R254307,50.0,0.5,,,orkg:R254310,orkg:R254332,orkg:R254353,90,,"coil_siz: outer diameter, site: occipital cortex"
+Khedr_2006_MovDisord_17219616.pdf,10.1002/mds.21089,R61,orkg:R254150,10,orkg:R254178,orkg:R254301,orkg:R254307,50.0,0.5,,,orkg:R254310,orkg:R254332,orkg:R254353,90,,"coil_siz: outer diameter, site: optimal position for lower limbs (EDB) for the first 1,000 pulses and then the optimal position for the hand"
+Lefaucheur_2006_Neurology_17159107.pdf,10.1212/01.wnl.0000247138.85330.88,R61,orkg:R254150,10,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,70,,"site: motor cortex, face, hand, arm"
+Nyffeler_2006_NeurosciLett_17049743.pdf,10.1016/j.neulet.2006.09.011,R61,orkg:R254150,1,orkg:R254178,,,,,,,orkg:R254310,orkg:R254323,orkg:R254353,50,orkg:R254359,site: FEF; coil_siz: outer radius
+Nyffeler_2006_NeurosciLett_17049743.pdf,10.1016/j.neulet.2006.09.011,R61,orkg:R254154,,orkg:R254178,,orkg:R254308,,,,,orkg:R254310,orkg:R254323,orkg:R254353,50,orkg:R254359,site: FEF; coil_siz: outer radius
+Postle_2006_JCognNeurosci_17014375.pdf,10.1162/jocn.2006.18.10.1712,R61,orkg:R254150,4.8,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,70,,site: dlPFC
+Postle_2006_JCognNeurosci_17014375.pdf,10.1162/jocn.2006.18.10.1712,R61,orkg:R254150,4.8,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,70,,site: SPL
+Postle_2006_JCognNeurosci_17014375.pdf,10.1162/jocn.2006.18.10.1712,R61,orkg:R254150,4.3,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,70,,site: dlPFC

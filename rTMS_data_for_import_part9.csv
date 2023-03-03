@@ -1,0 +1,51 @@
+paper:title,paper:doi,paper:research_field,orkg:P78000,orkg:P78001,orkg:P78002,orkg:P78003,orkg:P78005,orkg:P78006,orkg:P78007,orkg:P78008,orkg:P78009,orkg:P78010,orkg:P78011,orkg:P78012,orkg:P78013,orkg:P78014,orkg:P78015
+Lï½¢pez-Alonso_2014_BrainStimul_24630849.pdf,10.1016/j.brs.2014.02.004,R61,orkg:R254175,,orkg:R254177,orkg:R254301,orkg:R254307,200.0,5_10,0.1,,orkg:R254311,orkg:R254326,orkg:R254353,,,
+Momosaki_2014_CaseRepNeurol_24803904.pdf,10.1159/000360936,R61,orkg:R254150,3,orkg:R254178,,,,,,,orkg:R254314,orkg:R254341,orkg:R254353,70,,site: L
+Momosaki_2014_CaseRepNeurol_24803904.pdf,10.1159/000360936,R61,orkg:R254150,3,orkg:R254178,,,,,,,orkg:R254314,orkg:R254341,orkg:R254353,70,,site: R
+Nauczyciel_2014_TranslPsychiatry_25203167.pdf,10.1038/tp.2014.62,R61,orkg:R254150,1,orkg:R254179,orkg:R254301,orkg:R254308,,,,,orkg:R254310,orkg:R254337,orkg:R254353,,orkg:R254380,
+Rose_2014_StrokeResTreat_25197611.pdf,10.1155/2014/305236,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,6_10,,42.6,orkg:R254311,orkg:R254340,orkg:R254353,70,orkg:R254364,mso: Table 3
+Tsutsumi_2014_JNeurophysiol_24108795.pdf,10.1152/jn.00515.2013,R61,orkg:R254176,,orkg:R254177,orkg:R254301,orkg:R254307,100.0,5_10,5-10%,29.88,orkg:R254311,orkg:R254331,,,,stim_mo: combines 4 stimulators; protocol: QPS-5; multiple experiments
+Tsutsumi_2014_JNeurophysiol_24108795.pdf,10.1152/jn.00515.2013,R61,orkg:R254176,,orkg:R254177,orkg:R254301,orkg:R254307,100.0,5_10,5-10%,27.81,orkg:R254311,orkg:R254331,,,,stim_mo: combines 4 stimulators; protocol: QPS-50;  multiple experiments
+Yamada_2014_EurNeurol_25323412.pdf,10.1159/000365005,R61,orkg:R254150,1,orkg:R254178,,,,,,,orkg:R254314,orkg:R254341,orkg:R254353,70,,group: BoNT-A + rTMS + OT
+Yamada_2014_EurNeurol_25323412.pdf,10.1159/000365005,R61,orkg:R254150,1,orkg:R254178,,,,,,,orkg:R254314,orkg:R254341,orkg:R254353,70,,group: rTMS + OT
+Young-Bernier_2014_FrontAgingNeurosci_25147523.pdf,10.3389/fnagi.2014.00182,R61,orkg:R254175,,orkg:R254177,,,,,15-20%,,orkg:R254311,orkg:R254340,orkg:R254353,90,,coil_siz: inside-loop diameter
+Baeken_2015_BrainStimul_25744500.pdf,10.1016/j.brs.2015.01.415,R61,orkg:R254150,20,orkg:R254179,,orkg:R254307,,,,,orkg:R254311,orkg:R254322,orkg:R254353,,,
+Bharath_2015_EurJNeurol_25623591.pdf,10.1111/ene.12653,R61,orkg:R254150,1,orkg:R254178,,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,,,
+Candidi_2015_Cortex_25835522.pdf,10.1016/j.cortex.2015.01.012,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,47.7,orkg:R254311,orkg:R254326,orkg:R254353,,,site: right pSTS
+Chen_2015_Neuromodulation_26307511.pdf,10.1111/ner.12337,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,3_5,,45.243,orkg:R254311,orkg:R254340,orkg:R254353,70,orkg:R254379,"site: M1, 1200 pulses; mso: measured by rTMS coil"
+Chen_2015_Neuromodulation_26307511.pdf,10.1111/ner.12337,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,3_5,,45.243,orkg:R254311,orkg:R254340,orkg:R254353,70,orkg:R254379,"site: PMC, 1200 pulses; mso: measured by rTMS coil"
+Chen_2015_Neuromodulation_26307511.pdf,10.1111/ner.12337,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,3_5,,45.243,orkg:R254311,orkg:R254340,orkg:R254353,70,orkg:R254379,"site: M1, 600 pulses; protocol: sequential; mso: measured by rTMS coil"
+Chen_2015_Neuromodulation_26307511.pdf,10.1111/ner.12337,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,3_5,,45.243,orkg:R254311,orkg:R254340,orkg:R254353,70,orkg:R254379,"site: PMC, 600 pulses; protocol: sequential; mso: measured by rTMS coil"
+Demirtas-Tatlidede_2015_NeuroRehabilitation_25547768.pdf,10.3233/NRE-141191,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,,,
+Dlabac-deLange_2015_PsycholMed_25354751.pdf,10.1017/S0033291714002360,R61,orkg:R254150,10,orkg:R254178,orkg:R254301,orkg:R254308,,5_10,,,orkg:R254310,orkg:R254337,orkg:R254353,75,,
+Haghighi_2015_JPsychiatryRes_26228425.pdf,10.1016/j.jpsychires.2015.06.020,R61,orkg:R254150,20,orkg:R254178,CITE,orkg:R254308,,,,,orkg:R254311,,orkg:R254353,70,orkg:R254379,site: left PFC; protocol: bilateral sequential
+Haghighi_2015_JPsychiatryRes_26228425.pdf,10.1016/j.jpsychires.2015.06.020,R61,orkg:R254150,20,orkg:R254178,CITE,orkg:R254308,,,,,orkg:R254311,,orkg:R254353,70,orkg:R254379,site: right PFC; protocol: bilateral sequential
+Herremans_2015_PlosOne_26295336.pdf,10.1371/journal.pone.0136182,R61,orkg:R254150,20,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254322,orkg:R254353,70,,site: right DLPCF
+Johannsen_2015_NeurosciLett_25481762.pdf,10.1016/j.neulet.2014.11.048,R61,orkg:R254150,1,orkg:R254178,orkg:R254306,orkg:R254307,,,,,orkg:R254316,orkg:R254343,orkg:R254353,70,,site: left IPG
+Johannsen_2015_NeurosciLett_25481762.pdf,10.1016/j.neulet.2014.11.048,R61,orkg:R254150,1,orkg:R254178,orkg:R254306,orkg:R254307,,,,,orkg:R254316,orkg:R254343,orkg:R254353,70,,site: left MFG
+Lecce_2015_Cortex_26386441.pdf,10.1016/j.cortex.2015.08.007,R61,orkg:R254154,,orkg:R254182,,,,,,40.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,site: left IPS
+Lecce_2015_Cortex_26386441.pdf,10.1016/j.cortex.2015.08.007,R61,orkg:R254154,,orkg:R254182,,,,,,40.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,site: right IPS
+Marshall_2015_JNeurosci_25632139.pdf,10.1523/JNEUROSCI.3116-14.2015,R61,orkg:R254154,,orkg:R254177,orkg:R254301,,,5_10,0.1,23.2,orkg:R254314,orkg:R254337,orkg:R254353,,orkg:R254368,site: left FEF
+Marshall_2015_JNeurosci_25632139.pdf,10.1523/JNEUROSCI.3116-14.2015,R61,orkg:R254154,,orkg:R254177,orkg:R254301,,,5_10,0.1,23.2,orkg:R254314,orkg:R254337,orkg:R254353,,orkg:R254368,site: right FEF
+Matsuura_2015_EurJNeurol_26177235.pdf,10.1111/ene.12776,R61,orkg:R254150,1,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,43.6,orkg:R254311,orkg:R254325,orkg:R254353,70,,MSO range: 30-65%
+Notzon_2015_BiolPsychol_26476332.pdf,10.1016/j.biopsycho.2015.10.003,R61,orkg:R254175,,orkg:R254178,,,,,,,,,,,,group: spider phobia; device: information not reported
+Notzon_2015_BiolPsychol_26476332.pdf,10.1016/j.biopsycho.2015.10.003,R61,orkg:R254175,,orkg:R254178,,,,,,,,,,,,group: healthy; device: information not reported
+Schaal_2015_Cortex_25577719.pdf,10.1016/j.cortex.2014.11.011,R61,orkg:R254150,5,orkg:R254182,,,,,,60.0,orkg:R254311,orkg:R254326,orkg:R254353,70,,
+Strang_2015_SocCognAffectNeurosci_25190704.pdf,10.1093/scan/nsu114,R61,orkg:R254150,1,orkg:R254178,,,,,,38.06,orkg:R254314,orkg:R254341,orkg:R254353,,orkg:R254359,MSO range: 28-40%
+Strang_2015_SocCognAffectNeurosci_25190704.pdf,10.1093/scan/nsu114,R61,orkg:R254150,1,orkg:R254178,,,,,,38.06,orkg:R254314,orkg:R254341,orkg:R254353,,orkg:R254359,MSO range: 28-40%
+Wu_2015_ShanghaiArchPsychiatry_26977125.pdf,10.11919/j.issn.1002-0829.215107,R61,orkg:R254150,20,orkg:R254179,,,,,,,orkg:R254310,orkg:R254341,orkg:R254353,,,
+Xie_2015_ShanghaiArchPsychiatry_26120260.pdf,10.11919/j.issn.1002-0829.214151,R61,orkg:R254150,10,orkg:R254179,,,,,,,orkg:R254311,,,,,group: shuganjieyu + rTMS; device: sparse information
+Zhang_2015_SciRep_26463446.pdf,10.1038/srep14796,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254317,orkg:R254344,orkg:R254354,125,,site: left TPJ
+Zhang_2015_SciRep_26463446.pdf,10.1038/srep14796,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254317,orkg:R254344,orkg:R254354,125,,site: right TPJ
+Zheng_2015_IntJNeuropsychopharmacol_26025780.pdf,10.1093/ijnp/pyv059,R61,orkg:R254150,15,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254310,orkg:R254341,orkg:R254353,,,
+Zheng_2015_IntJNeuropsychopharmacol_26025780.pdf,10.1093/ijnp/pyv059,R61,orkg:R254150,15,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254310,orkg:R254341,orkg:R254353,,,si_pct: duing the first week for the sake of tolerability
+Attal_2016_Pain_26845524.pdf,10.1097/j.pain.0000000000000510,R61,orkg:R254150,10,orkg:R254178,orkg:R254301,orkg:R254307,,0.5,,,orkg:R254314,orkg:R254337,orkg:R254353,,,
+Bolloni_2016_FrontPsychiatry_27551268.pdf,10.3389/fpsyt.2016.00133,R61,orkg:R254150,10,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254318,,orkg:R254356,,orkg:R254378,protocol: bilateral; left PFC
+Bolloni_2016_FrontPsychiatry_27551268.pdf,10.3389/fpsyt.2016.00133,R61,orkg:R254150,10,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254318,,orkg:R254356,,orkg:R254378,protocol: bilateral; right PFC
+Cha_2016_JPhysTherSci_27512251.pdf,10.1589/jpts.28.2002,R61,orkg:R254150,1,,,,,,,,orkg:R254311,orkg:R254340,orkg:R254353,80,,si_pct: not reported
+Cugy_2016_AnnPhysRehabilMed_26717886.pdf,10.1016/j.rehab.2015.10.010,R61,orkg:R254150,1,orkg:R254179,orkg:R254301,orkg:R254307,50.0,2_4,,,orkg:R254311,orkg:R254326,orkg:R254353,70,orkg:R254364,MSO max: 100%
+Deschamps_2016_JPsychiatryRes_27580486.pdf,10.1016/j.jpsychires.2016.08.013,R61,orkg:R254150,10,orkg:R254179,orkg:R254301,orkg:R254308,,5_10,,,,,,,,site: left DLPFC; device: information not reported
+Deschamps_2016_JPsychiatryRes_27580486.pdf,10.1016/j.jpsychires.2016.08.013,R61,orkg:R254150,1,orkg:R254179,orkg:R254301,orkg:R254308,,5_10,,,,,,,,site: right DLPFC; device: information not reported
+Dunlop_2016_Neuropsychopharmacology_26440813.pdf,10.1038/npp.2015.292,R61,orkg:R254150,10,orkg:R254178,,,,,,,orkg:R254314,orkg:R254341,,,orkg:R254374,
+Fitzgerald_2016_JAffectDisord_27016659.pdf,10.1016/j.jad.2016.03.052,R61,orkg:R254150,1,orkg:R254178,,,,,,,orkg:R254314,orkg:R254336,orkg:R254353,70,,protocol: bilateral sequential; site: right DLPFC
+Fitzgerald_2016_JAffectDisord_27016659.pdf,10.1016/j.jad.2016.03.052,R61,orkg:R254150,10,orkg:R254178,,,,,,,orkg:R254314,orkg:R254336,orkg:R254353,70,,protocol: bilateral sequential; site: left DLPFC

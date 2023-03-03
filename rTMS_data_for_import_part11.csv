@@ -1,0 +1,51 @@
+paper:title,paper:doi,paper:research_field,orkg:P78000,orkg:P78001,orkg:P78002,orkg:P78003,orkg:P78005,orkg:P78006,orkg:P78007,orkg:P78008,orkg:P78009,orkg:P78010,orkg:P78011,orkg:P78012,orkg:P78013,orkg:P78014,orkg:P78015
+Woollams_2017_BrainStructFunct_28756485.pdf,10.1007/s00429-017-1430-2,R61,orkg:R254150,1,orkg:R254179,,,,,,61.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,site: left ATL
+Woollams_2017_BrainStructFunct_28756485.pdf,10.1007/s00429-017-1430-2,R61,orkg:R254150,1,orkg:R254179,,,,,,61.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,site: right ATL
+Yazar_2017_BrainStimul_28283370.pdf,10.1016/j.brs.2017.02.011,R61,orkg:R254154,,orkg:R254178,,,,,,,orkg:R254311,orkg:R254340,orkg:R254353,70,,site: left AG
+Albuquerque_2018_PLoSOne_29596524.pdf,10.1371/journal.pone.0195276,R61,orkg:R254150,1,orkg:R254178,orkg:R254306,orkg:R254307,50.0,,,,orkg:R254311,orkg:R254325,orkg:R254353,,,
+Albuquerque_2018_PLoSOne_29596524.pdf,10.1371/journal.pone.0195276,R61,orkg:R254150,20,orkg:R254178,orkg:R254306,orkg:R254307,50.0,,,,orkg:R254311,orkg:R254325,orkg:R254353,,,
+Anderkova_2018_NeuralPlast_29725346.pdf,10.1155/2018/3106918,R61,orkg:R254175,,orkg:R254177,,,,,,,orkg:R254319,orkg:R254346,orkg:R254353,70,orkg:R254383,site: rIFG
+Anderkova_2018_NeuralPlast_29725346.pdf,10.1155/2018/3106918,R61,orkg:R254154,,orkg:R254177,,,,,,,orkg:R254319,orkg:R254346,orkg:R254353,70,orkg:R254383,site: rIFG
+Anderkova_2018_NeuralPlast_29725346.pdf,10.1155/2018/3106918,R61,orkg:R254175,,orkg:R254177,,,,,,,orkg:R254319,orkg:R254346,orkg:R254353,70,orkg:R254383,site: lSPL
+Anderkova_2018_NeuralPlast_29725346.pdf,10.1155/2018/3106918,R61,orkg:R254154,,orkg:R254177,,,,,,,orkg:R254319,orkg:R254346,orkg:R254353,70,orkg:R254383,site: lSPL
+Cao_2018_NeurosciLett_30243883.pdf,10.1016/j.neulet.2018.09.032,R61,orkg:R254175,,orkg:R254178,orkg:R254301,orkg:R254307,100.0,5_10,,,orkg:R254311,,orkg:R254353,95,,coil_siz: outer diameter; stimulator: model 2002 cannot do rTMS
+Cao_2018_NeurosciLett_30243883.pdf,10.1016/j.neulet.2018.09.032,R61,orkg:R254154,,orkg:R254178,orkg:R254301,orkg:R254307,100.0,5_10,,,orkg:R254311,,orkg:R254353,95,,coil_siz: outer diameter; stimulator: model 2002 cannot do rTMS
+Du_2018_TranslPsychiatry_29520002.pdf,10.1038/s41398-017-0005-6,R61,orkg:R254150,10,orkg:R254178,,,,,,,orkg:R254317,orkg:R254344,,,,site: left DLPFC
+Hodaj_2018_NeurophysiolClin_29910145.pdf,10.1016/j.neucli.2018.05.039,R61,orkg:R254150,10,orkg:R254178,,,,,,,orkg:R254314,,orkg:R254353,97,orkg:R254360,"coil_siz: outer diameter 97, inner diameter 23"
+Huang_2018_AmJPhysMedRehabil_29023249.pdf,10.1097/PHM.0000000000000850,R61,orkg:R254150,1,orkg:R254177,orkg:R254301,orkg:R254307,100.0,5_10,,51.12,orkg:R254311,orkg:R254340,orkg:R254355,110,orkg:R254365,mt_contr: REF25
+Jones_2018_ExpDermatol_30325544.pdf,10.1111/exd.13803,R61,orkg:R254154,,orkg:R254182,,,,,,40.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,site: right IFG; mso: corresponded to 104% of AMT
+Jones_2018_ExpDermatol_30325544.pdf,10.1111/exd.13803,R61,orkg:R254154,,orkg:R254182,,,,,,40.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,site: left S2; mso: corresponded to 104% of AMT
+Jones_2018_ExpDermatol_30325544.pdf,10.1111/exd.13803,R61,orkg:R254154,,orkg:R254182,,,,,,40.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,site: left S1; mso:corresponded to 104% of AMT
+Lebiecka_2018_FrontPhysiol_30323771.pdf,10.3389/fphys.2018.01385,R61,,,orkg:R254179,,,,,,,,,,,,sparse information
+Nuttall_2018_BrainLang_29397191.pdf,10.1016/j.bandl.2017.12.002,R61,orkg:R254154,,orkg:R254182,,,,,,40.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,experiment: 1; site: left M1
+Paracampo_2018_Neuropsychologia_29410266.pdf,10.1016/j.neuropsychologia.2018.01.043,R61,orkg:R254150,6,orkg:R254178,orkg:R254301,orkg:R254307,50.0,0.5,,49.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,experiment: 1; site: V1 
+Paracampo_2018_Neuropsychologia_29410266.pdf,10.1016/j.neuropsychologia.2018.01.043,R61,orkg:R254150,6,orkg:R254178,orkg:R254301,orkg:R254307,50.0,0.5,,49.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,experiment: 1; site: STS
+Paracampo_2018_Neuropsychologia_29410266.pdf,10.1016/j.neuropsychologia.2018.01.043,R61,orkg:R254150,6,orkg:R254178,orkg:R254301,orkg:R254307,50.0,0.5,,46.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,experiment: 2; site: IFG 
+Paracampo_2018_Neuropsychologia_29410266.pdf,10.1016/j.neuropsychologia.2018.01.043,R61,orkg:R254150,6,orkg:R254178,orkg:R254301,orkg:R254307,50.0,0.5,,46.0,orkg:R254311,orkg:R254340,orkg:R254353,70,,experiment: 2; site: TPJ
+Poeppl_2018_HumBrainMapp_29064602.pdf,10.1002/hbm.23864,R61,orkg:R254150,20,orkg:R254178,orkg:R254301,orkg:R254307,50.0,4_8,,,,,,,,protocol: sequential bilateral; site: left DLPFC
+Poeppl_2018_HumBrainMapp_29064602.pdf,10.1002/hbm.23864,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,4_8,,,,,,,,protocol: sequential bilateral; site: left temporal cortex
+Reid_2018_SciRep_29773908.pdf,10.1038/s41598-018-26069-1,R61,orkg:R254150,10,orkg:R254178,,orkg:R254307,50.0,3_6,,,,,orkg:R254353,,,site: mIPS; device: nor reported; coil_shp: inferred from Figure 2
+Reid_2018_SciRep_29773908.pdf,10.1038/s41598-018-26069-1,R61,orkg:R254150,10,orkg:R254178,,orkg:R254307,50.0,3_6,,,,,orkg:R254353,,,site: SPOC; device: nor reported; coil_shp: inferred from Figure 2
+Sokhadze_2018_FrontSystNeurosci_29892214.pdf,10.3389/fnsys.2018.00020,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,2_3,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,"site: DLFPC; th_meas: or V; multiple sessions: 6, 12 and 18 per week"
+Szaflarski_2018_RestorNeurolNeurosci_29889086.pdf,10.3233/RNN-180812,R61,orkg:R254175,,orkg:R254177,,orkg:R254307,,,,,orkg:R254311,orkg:R254340,orkg:R254353,,,site: right primary motor cortex
+Tripathi_2018_IntJNeurosci_28903615.pdf,10.1080/00207454.2017.1374959,R61,orkg:R254150,10,orkg:R254179,,,,,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,site: left motor cortex
+Tse_2018_SciRep_29867191.pdf,10.1038/s41598-018-26791-w,R61,orkg:R254175,,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,,,orkg:R254353,75,orkg:R254362,site: motor cortex; protocol: single iTBS
+Tse_2018_SciRep_29867191.pdf,10.1038/s41598-018-26791-w,R61,orkg:R254175,,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,,,orkg:R254353,75,orkg:R254362,site: motor cortex; protocol: iTBS-5-iTBS
+Tse_2018_SciRep_29867191.pdf,10.1038/s41598-018-26791-w,R61,orkg:R254175,,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,,,orkg:R254353,75,orkg:R254362,site: motor cortex; protocol: iTBS-15-iTBS
+Ueno_2018_CerebCortex_29878073.pdf,10.1093/cercor/bhy131,R61,orkg:R254150,1,orkg:R254178,,,,,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,site: left ventral ATL
+WagleShukla_2018_BrainStimul_29530449.pdf,10.1016/j.brs.2018.02.004,R61,orkg:R254150,0.2,orkg:R254177, ,orkg:R254307,150.0,,,58.0,orkg:R254311,,orkg:R254355,,,site: ACC
+Wu_2018_DrugAlcoholDepend_30142603.pdf,10.1016/j.drugalcdep.2018.07.004,R61,orkg:R254150,20,orkg:R254178,orkg:R254301,orkg:R254308,,,,,orkg:R254311,orkg:R254322,orkg:R254353,70,,site: right DLPFC 
+Zhang_2018_CurrMedSci_30074217.pdf,10.1007/s11596-018-1905-2,R61,orkg:R254150,1,orkg:R254178,,,,,,,orkg:R254311,orkg:R254340,orkg:R254353,,,
+Addicott_2019_BrainConnect_30773890.pdf,10.1089/brain.2018.0652,R61,orkg:R254150,10,orkg:R254178,PEST_CITE,orkg:R254307,,,,,orkg:R254311,orkg:R254340,orkg:R254353,,orkg:R254364,
+Addicott_2019_BrainConnect_30773890.pdf,10.1089/brain.2018.0652,R61,orkg:R254150,1,orkg:R254178,PEST_CITE,orkg:R254307,,,,,orkg:R254311,orkg:R254340,orkg:R254353,,orkg:R254364,
+Ahn_2019_FrontPsychiatry_31803079.pdf,10.3389/fpsyt.2019.00815,R61,orkg:R254150,10,orkg:R254182,,,,,,40.0,orkg:R254311,orkg:R254340,,70,orkg:R254379,site: left DLFPC
+Albrecht_2019_BrainStimul_30738776.pdf,10.1016/j.brs.2019.01.012,R61,orkg:R254150,15,orkg:R254179,,orkg:R254307,,,,,orkg:R254311,orkg:R254340,orkg:R254353,,orkg:R254379,MEP threshold
+Antczak_2019_NeuralPlast_31214256.pdf,10.1155/2019/7638675,R61,orkg:R254150,10,orkg:R254178,orkg:R254301,,50.0,,,59.94,orkg:R254311,orkg:R254340,orkg:R254355,110,,si_app: or 90% AMT; MSO individual: Table 1
+Corlier_2019_BrainStimul_31378603.pdf,10.1016/j.brs.2019.07.018,R61,orkg:R254150,10,orkg:R254179,orkg:R254301,,,0.5,,,orkg:R254311,orkg:R254340,,70,,multiple stimulators
+Corlier_2019_BrainStimul_31378603.pdf,10.1016/j.brs.2019.07.018,R61,orkg:R254150,10,orkg:R254179,orkg:R254301,,,0.5,,,orkg:R254311,orkg:R254340,,70,,
+Corlier_2019_BrainStimul_31378603.pdf,10.1016/j.brs.2019.07.018,R61,orkg:R254150,5,orkg:R254179,orkg:R254301,,,0.5,,,orkg:R254311,orkg:R254340,,70,,
+Duffy_2019_PLoSOne_30682141.pdf,10.1371/journal.pone.0211279,R61,orkg:R254175,,orkg:R254177,MLTH_PEST,orkg:R254307,50.0,,,,orkg:R254314,orkg:R254337,orkg:R254353,75,orkg:R254373,site: rTBJ; coil_siz: outer diameter; si_app: calculated  resting motor threshold = 120% active motor threshold
+Fan_2019_NeuroimageClin_30776777.pdf,10.1016/j.nicl.2019.101719,R61,orkg:R254150,10,orkg:R254179,,,,,,,,,,,,
+Gan_2019_JIntNeuropsycholSoc_31397255.pdf,10.1017/S1355617719000766,R61,orkg:R254175,,orkg:R254178,orkg:R254301,orkg:R254307,50.0,3_6,,,orkg:R254314,orkg:R254337,orkg:R254354,114,,
+Gan_2019_JIntNeuropsycholSoc_31397255.pdf,10.1017/S1355617719000766,R61,orkg:R254154,,orkg:R254178,orkg:R254301,orkg:R254307,50.0,3_6,,,orkg:R254314,orkg:R254337,orkg:R254354,114,,
+Georgiou_2019_ClinLinguistPhon_30676091.pdf,10.1080/02699206.2018.1562496,R61,orkg:R254154,,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254340,,70,orkg:R254379,site: right pars triangularis

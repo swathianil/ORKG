@@ -1,0 +1,51 @@
+paper:title,paper:doi,paper:research_field,orkg:P78000,orkg:P78001,orkg:P78002,orkg:P78003,orkg:P78005,orkg:P78006,orkg:P78007,orkg:P78008,orkg:P78009,orkg:P78010,orkg:P78011,orkg:P78012,orkg:P78013,orkg:P78014,orkg:P78015
+Bestmann_2003_Neuroimage_14642478.pdf,10.1016/j.neuroimage.2003.07.028,R61,orkg:R254150,4,orkg:R254177,orkg:R254301,orkg:R254308,,2_4,0.1,,orkg:R254311,orkg:R254325,orkg:R254353,70,,MSO range: 56-89%
+Bestmann_2003_Neuroimage_14642478.pdf,10.1016/j.neuroimage.2003.07.028,R61,orkg:R254150,4,orkg:R254177,orkg:R254301,orkg:R254308,,2_4,0.1,,orkg:R254311,orkg:R254325,orkg:R254353,70,,MSO range: 56-89%
+Brighina_2003_EurJNeurosci_12814379.pdf,10.1046/j.1460-9568.2003.02679.x,R61,orkg:R254150,1,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254309,orkg:R254335,orkg:R254353,,,site: O1
+Brighina_2003_EurJNeurosci_12814379.pdf,10.1046/j.1460-9568.2003.02679.x,R61,orkg:R254150,1,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254309,orkg:R254335,orkg:R254353,,,site: O2
+Brighina_2003_NeurosciLett_12499057.pdf,10.1016/s0304-3940(02)01283-1,R61,orkg:R254150,1,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,48.9,orkg:R254309,,orkg:R254353,45,orkg:R254363,coil_siz: each loop diameter; MSO individual
+Eichhammer_2003_JClinPsychiatry_12927012.pdf,10.4088/jcp.v64n0815,R61,orkg:R254150,20,orkg:R254179,,,,,,,orkg:R254311,,,,,device: sparse information
+Gilio_2003_JPhysiol_12821724.pdf,10.1113/jphysiol.2003.044313,R61,orkg:R254150,1,orkg:R254178,,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,90,,coil_siz: mean loop diameter; si_app: to elicit left to right IHI at 10ms of 70%
+Hoffman_2003_ArchGenPsychiatry_12511172.pdf,10.1001/archpsyc.60.1.49,R61,orkg:R254150,1,orkg:R254179,orkg:R254301,orkg:R254308,,4_8,,,orkg:R254311,orkg:R254326,orkg:R254353,70,orkg:R254364,"stim_mo: reported as ""Magstim Super System"""
+Hå»pner_2003_EurArchPsychiatryClinNeurosci_12799750.pdf,10.1007/s00406-003-0416-7,R61,orkg:R254150,20,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254310,orkg:R254332,orkg:R254353,,,
+Hå»pner_2003_EurArchPsychiatryClinNeurosci_12799750.pdf,10.1007/s00406-003-0416-7,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254310,orkg:R254332,orkg:R254353,,,
+Klimesch_2003_EurJNeurosc_12653991.pdf,10.1046/j.1460-9568.2003.02517.x,R61,orkg:R254150,9.7,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,57.3,orkg:R254311,orkg:R254325,orkg:R254353,70,,site: P6; frq: IAF+1Hz
+Klimesch_2003_EurJNeurosc_12653991.pdf,10.1046/j.1460-9568.2003.02517.x,R61,orkg:R254150,9.7,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,57.3,orkg:R254311,orkg:R254325,orkg:R254353,70,,site: Fz; frq: IAF+1Hz
+Liederman_2003_BrainLang_12681353.pdf,10.1016/s0093-934x(02)00550-3,R61,orkg:R254150,1,orkg:R254182,,,,,,70.0,orkg:R254311,orkg:R254325,orkg:R254353,,,site: V5/MT+; multiple tasks
+MacDonald_2003_CerebCortex_12902395.pdf,10.1093/cercor/13.9.962,R61,orkg:R254150,0.6,orkg:R254179,orkg:R254301,orkg:R254308,,0.5,,,orkg:R254311,orkg:R254333,orkg:R254353,,,site: left parietal; MSO range: 50-70%
+Rohde_2003_BrJAnaesth_14504147.pdf,10.1093/bja/aeg224,R61,orkg:R254150,333,orkg:R254182,,,,,,100.0,orkg:R254311,orkg:R254334,orkg:R254353,90,,protocol: 4 pulses; coil_shp: flat coil; coil_siz: outer diameter
+Rohde_2003_BrJAnaesth_14504147.pdf,10.1093/bja/aeg224,R61,orkg:R254150,250,orkg:R254182,,,,,,100.0,orkg:R254311,orkg:R254334,orkg:R254353,90,,protocol: 4 pulses; coil_shp: flat coil; coil_siz: outer diameter
+Rohde_2003_BrJAnaesth_14504147.pdf,10.1093/bja/aeg224,R61,orkg:R254150,orkg:R254330,orkg:R254182,,,,,,100.0,orkg:R254311,orkg:R254334,orkg:R254353,90,,protocol: 4 pulses; coil_shp: flat coil; coil_siz: outer diameter
+Sandrini_2003_JCognNeurosci_14511538.pdf,10.1162/089892903322370771,R61,orkg:R254150,20,orkg:R254179,,,,,,,orkg:R254311,orkg:R254326,orkg:R254353,70,,site: left DLPFC
+Sandrini_2003_JCognNeurosci_14511538.pdf,10.1162/089892903322370771,R61,orkg:R254150,20,orkg:R254179,,,,,,,orkg:R254311,orkg:R254326,orkg:R254353,70,,site: right DLPFC
+Schutter_2003_CognBrainRes_12706228.pdf,10.1016/s0926-6410(02)00300-2,R61,orkg:R254150,1,orkg:R254179,,,,,,,orkg:R254313,,,,,site: Oz; coil_mo: iron core coil
+Siebner_2003_Brain_12937071.pdf,10.1093/brain/awg282,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254308,,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,70,orkg:R254366,group: patient
+Siebner_2003_Brain_12937071.pdf,10.1093/brain/awg282,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254308,,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,70,orkg:R254366,group: healthy
+Steyvers_2003_ExpBrainRes_12756517.pdf,10.1007/s00221-003-1490-9,R61,orkg:R254150,20,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,57.57,orkg:R254311,orkg:R254325,orkg:R254353,90,,coil_siz: outer diameter
+Balslev_2004_JNeurosci_15509758.pdf,10.1523/JNEUROSCI.1738-04.2004,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254308,,,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,experiment: 1
+Balslev_2004_JNeurosci_15509758.pdf,10.1523/JNEUROSCI.1738-04.2004,R61,orkg:R254150,1,orkg:R254178,orkg:R254301,orkg:R254308,,,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,experiment: 2
+Brighina_2004_JNeurolSci_15546593.pdf,10.1016/j.jns.2004.08.008,R61,orkg:R254150,20,orkg:R254179,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254309,orkg:R254335,orkg:R254353,45,orkg:R254363,coil_siz: each loop
+Cincotta_2004_NeurosciLett_15331150.pdf,10.1016/j.neulet.2004.06.003,R61,orkg:R254150,20,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,90,,coil_siz: external diameter
+Fabre_2004_IntJGeriatrPsychiatry_15352140.pdf,10.1002/gps.1172,R61,orkg:R254150,10,orkg:R254178,CITE,,,,,,orkg:R254311,orkg:R254322,orkg:R254353,,orkg:R254363,
+Fujiwara_2004_ClinNeurophysiol_15203052.pdf,10.1016/j.clinph.2004.01.021,R61,orkg:R254150,5,orkg:R254177,orkg:R254301,orkg:R254307,,5_10,5-10%,,orkg:R254311,orkg:R254325,orkg:R254353,,,experiment 1; rTMS and voluntary contraction
+Fujiwara_2004_ClinNeurophysiol_15203052.pdf,10.1016/j.clinph.2004.01.021,R61,orkg:R254150,5,orkg:R254177,orkg:R254301,orkg:R254307,,5_10,5-10%,,orkg:R254311,orkg:R254325,orkg:R254353,,,experiment 2; rTMS only
+Inghilleri_2004_ExpBrainRes_14579005.pdf,10.1007/s00221-003-1685-0,R61,orkg:R254150,5,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,group: 1 CBZ + rTMS
+Inghilleri_2004_ExpBrainRes_14579005.pdf,10.1007/s00221-003-1685-0,R61,orkg:R254150,5,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,group: 2 GBP + rTMS
+Inghilleri_2004_ExpBrainRes_14579005.pdf,10.1007/s00221-003-1685-0,R61,orkg:R254150,5,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,70,,group: 3 TPM + rTMS
+Kennerley_2004_JNeurophysiol_14573560.pdf,10.1152/jn.00651.2003,R61,orkg:R254150,10,orkg:R254177,orkg:R254301,orkg:R254308,,,0.1,,orkg:R254311,orkg:R254325,orkg:R254355,,,experiment: 2; site: pre-SMA
+Kennerley_2004_JNeurophysiol_14573560.pdf,10.1152/jn.00651.2003,R61,orkg:R254150,10,orkg:R254177,orkg:R254301,orkg:R254308,,,0.1,,orkg:R254311,orkg:R254325,orkg:R254355,,,experiment: 3; site: pre-SMA
+Kennerley_2004_JNeurophysiol_14573560.pdf,10.1152/jn.00651.2003,R61,orkg:R254150,10,orkg:R254177,orkg:R254301,orkg:R254308,,,0.1,,orkg:R254311,orkg:R254325,orkg:R254355,,,experiment: 4; site: pre-SMA
+Khedr_2004_ClinNeurophysiol_15134692.pdf,10.1016/j.clinph.2003.08.025,R61,orkg:R254150,0.6,orkg:R254177,orkg:R254301,orkg:R254307,200.0,5_10,,,orkg:R254311,orkg:R254325,orkg:R254353,,,protocol: paired rTMS; MSO range: 75-85% for AMT
+Lefaucheur_2004_ClinNeurophysiol_15465443.pdf,10.1016/j.clinph.2004.05.025,R61,orkg:R254150,0.5,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,70,orkg:R254367,
+Lefaucheur_2004_ClinNeurophysiol_15465443.pdf,10.1016/j.clinph.2004.05.025,R61,orkg:R254150,10,orkg:R254178,orkg:R254301,orkg:R254307,50.0,5_10,,,orkg:R254311,orkg:R254326,orkg:R254353,70,orkg:R254367,
+Merabet_2004_Neuron_15066274.pdf,10.1016/s0896-6273(04)00147-3,R61,orkg:R254150,1,orkg:R254179,,,,,,,orkg:R254311,,orkg:R254353,70,,site: S1; MSO range: 45-82%
+Merabet_2004_Neuron_15066274.pdf,10.1016/s0896-6273(04)00147-3,R61,orkg:R254150,1,orkg:R254179,,,,,,,orkg:R254311,,orkg:R254353,70,,site: OC; MSO range: 45-82%
+Oxley_2004_BiolPsychiatry_15522245.pdf,10.1016/j.biopsych.2004.08.023,R61,orkg:R254150,1,orkg:R254177,orkg:R254301,orkg:R254307,100.0,1_5,,,orkg:R254311,orkg:R254326,orkg:R254353,,,group: healthy; coil_shp: infered from Figure 2
+Oxley_2004_BiolPsychiatry_15522245.pdf,10.1016/j.biopsych.2004.08.023,R61,orkg:R254150,1,orkg:R254177,orkg:R254301,orkg:R254307,100.0,1_5,,,orkg:R254311,orkg:R254326,orkg:R254353,,,group: patient; coil_shp: infered from Figure 2
+Rizzo_2004_JPhysiol_14555728.pdf,10.1113/jphysiol.2003.048777,R61,orkg:R254150,1,orkg:R254177,,,,,,33.5,orkg:R254311,orkg:R254325,orkg:R254353,90,,coil_siz: mean loop diameter; site: PMd
+Rizzo_2004_JPhysiol_14555728.pdf,10.1113/jphysiol.2003.048777,R61,orkg:R254150,1,orkg:R254177,,,,,,33.5,orkg:R254311,orkg:R254325,orkg:R254353,90,,coil_siz: mean loop diameter; site: PMd
+Rizzo_2004_JPhysiol_14555728.pdf,10.1113/jphysiol.2003.048777,R61,orkg:R254150,5,orkg:R254177,,,,,,33.5,orkg:R254311,orkg:R254325,orkg:R254353,90,,coil_siz: mean loop diameter; site: PMd
+Rizzo_2004_JPhysiol_14555728.pdf,10.1113/jphysiol.2003.048777,R61,orkg:R254150,5,orkg:R254177,,,,,,33.5,orkg:R254311,orkg:R254325,orkg:R254353,90,,coil_siz: mean loop diameter; site: PMd
+Rizzo_2004_JPhysiol_14555728.pdf,10.1113/jphysiol.2003.048777,R61,orkg:R254150,5,orkg:R254177,,,,,,33.5,orkg:R254311,orkg:R254325,orkg:R254353,90,,coil_siz: mean loop diameter; site: PMd
+Sché¦¬feldt-Lecuona_2004_Neuroreport_15232304.pdf,10.1097/01.wnr.0000126504.89983.ec,R61,orkg:R254150,1,orkg:R254179,CITE,,,,,,orkg:R254310,orkg:R254323,orkg:R254353,,orkg:R254359,site: Broca
+Sché¦¬feldt-Lecuona_2004_Neuroreport_15232304.pdf,10.1097/01.wnr.0000126504.89983.ec,R61,orkg:R254150,1,orkg:R254179,CITE,,,,,,orkg:R254310,orkg:R254323,orkg:R254353,,orkg:R254359,site: STG
